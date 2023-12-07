@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, mi nombre es Eduardo Elias Hernandez Moreno</h1>
-<h3 align="center">Un apasionado desarrollador web de México</h3>
+<h3 align="center">Un apasionado desarrollador de México</h3>
 
 - 🌱 Actualmente estoy aprendiendo *PostgreSQL, Flutter*
 
